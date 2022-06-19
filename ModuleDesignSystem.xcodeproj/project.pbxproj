@@ -59,7 +59,8 @@
 				C9A7876A2854DA6D00D9177B /* ModuleDesignSystem.h */,
 				C9A7876B2854DA6D00D9177B /* ModuleDesignSystem.docc */,
 			);
-			path = ModuleDesignSystem;
+			name = ModuleDesignSystem;
+			path = Sources/ModuleDesignSystem;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
